@@ -1,2 +1,2 @@
 # StormFN ConsoleApp
- StormFN ConsoleApp by Stormzy, skid = not cool
+ StormFN ConsoleApp by stormzy, skid = not cool, thx to Ender for helping on the launcher
